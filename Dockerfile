@@ -1,4 +1,4 @@
-FROM quay.io/nyanloutre/site-musique-docker
-MAINTAINER Paul TREHIOU <paul.trehiou@gmail.com>
+FROM quay.io/vskilet/organize
+MAINTAINER Victor SENE <contact@sene.ovh>
 
 COPY ./ /usr/share/nginx/html/
